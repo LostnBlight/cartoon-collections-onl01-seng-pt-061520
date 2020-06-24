@@ -4,11 +4,11 @@ def roll_call_dwarves(array)
   end
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(calls)
   
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(planteer_calls)
   
 end
 
