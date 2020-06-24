@@ -5,7 +5,7 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(calls)
-  calls.map do |
+  calls.map do |name|
 end
 
 def long_planeteer_calls(planteer_calls)
