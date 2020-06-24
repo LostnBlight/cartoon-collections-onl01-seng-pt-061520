@@ -11,7 +11,7 @@ def summon_captain_planet(calls)
 end
 
 def long_planeteer_calls(planteer_calls)
-  {|word| word.length < 4 }
+  planteer_calls.{|word| word.length < 4 }
   
 end
 
